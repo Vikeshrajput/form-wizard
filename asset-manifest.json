@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/form-wizard/static/css/main.7b76292a.css",
+    "main.js": "/form-wizard/static/js/main.b5685b4c.js",
+    "index.html": "/form-wizard/index.html",
+    "main.7b76292a.css.map": "/form-wizard/static/css/main.7b76292a.css.map",
+    "main.b5685b4c.js.map": "/form-wizard/static/js/main.b5685b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b76292a.css",
+    "static/js/main.b5685b4c.js"
+  ]
+}
